@@ -64,8 +64,8 @@ If you accidentally swap the values, the app automatically fixes the order inter
 
 ## Example results
 
-Before
+### Before:
+![Input](input/Test.png)
 
-After (Vertical Sort)
-
-After (Horizontal Sort)
+### After (Horizontal Sort):
+![Output](output/export.png)
